@@ -61,4 +61,6 @@ alias lc='colorls -lA --sd'
 alias ls='colorls -1'
 alias lsa='colorls -a --sd'
 alias lst='colorls --tree'
+
+# set vim commands to the terminal
 set -o vi
