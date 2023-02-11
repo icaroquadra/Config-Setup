@@ -12,4 +12,6 @@ Setup to my workspaces
 
 [SpaceShip](https://github.com/spaceship-prompt/spaceship-prompt) Theme for zsh
 
-[ColorLs](https://github.com/athityakumar/colorls) Cool ls
+[ColorLs](https://github.com/athityakumar/colorls) Cool ls.
+
+[NeoVim](https://github.com/neovim/neovim/wiki/Installing-Neovim) Blaziling fast LSP.
